@@ -116,11 +116,13 @@ Work together on **Partner B**'s computer to make the following changes.
 
 **Why do you think it's important to create a new branch when making changes to the code, rather than making changes directly in the main branch?**
 
-Write your answer here!
+it is important to create a new branch so that collaborators can have diffferent ideas and visions when collaborating together on a project, so that 
+one person does not need constant approval and thus it will speed up the coding process.
 
 **What does it mean to push your changes, and why is this an important step in using a version control system like Git?**
 
-Write your answer here!
+Pushing your changes means to finalize and submit the code, this is an important step in using a version control system like Git
+because it makes it so that you can submit different versions of your code and decide which one is the most optimal. 
 
 ## Part 4: Open a pull request
 
